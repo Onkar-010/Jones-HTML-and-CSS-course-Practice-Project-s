@@ -11,6 +11,4 @@ Inside:
 
 Feel free to explore
 
-## Sub header
 
-Watching tutorial on youtube about how to use Gi and github
